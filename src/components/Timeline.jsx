@@ -86,7 +86,7 @@ const events = [
         year: "1924", 
         title: "Trade Unions", 
         description: "PKI expands labor influence", 
-        details: "After the Dutch leaders are exiled, the PKI's new Indonesian leadership makes efforts to organize and gain influence in trade unions and workers' groups.", 
+        details: "After the Dutch leaders are exiled, the PKI's new Indonesian leadership makes efforts to organize and gain influence in trade unions and workers' groups. Trade unions become one of the cornerstones of PKI support.", 
         extraSpace: -200, // Custom spacing, -224.5 for direct adjacency
         source: "Peter Liang Tek Sun, \“A Life Under Three Flags\” (PhD diss., University of Western Sydney, 2008), 37, https://researchers-admin.westernsydney.edu.au/ws/portalfiles/portal/94895842/uws_6389.pdf."
     },
@@ -94,14 +94,14 @@ const events = [
         year: "1926-7", 
         title: "PKI Uprisings", 
         description: "Failed PKI revolts", 
-        details: "PKI uprisings break out in Batavia, Priangan, Banten and Sumatra. The January 1st uprisings in Western Sumatra are swiftly crushed.",
+        details: "PKI uprisings break out in Batavia, Priangan, Banten and Sumatra. The January 1st uprisings in Western Sumatra are swiftly crushed, and in the aftermath the Dutch colonial government redoubles its efforts to suppress communist movements.",
         source: "\“Timeline of Communist Activity in Indonesia and Reconciliation Efforts,\” The Jakarta Post, 2015,https://www.thejakartapost.com/news/2015/09/30/timeline-communist-activity-indonesia-and-reconciliation-efforts.html?"
     },
     { 
         year: "1927", 
         title: "PKI Outlawed", 
         description: "Dutch authorities ban the PKI", 
-        details: "The PKI is officially banned by the colonial government in response to the PKI uprisings. The party goes underground.", 
+        details: "The PKI is officially banned by the colonial government in response to the PKI uprisings, causing the party to go underground in the face of suppresion by Dutch authorities.", 
         source: "\“Timeline of Communist Activity in Indonesia and Reconciliation Efforts,\” The Jakarta Post, 2015, https://www.thejakartapost.com/news/2015/09/30/timeline-communist-activity-indonesia-and-reconciliation-efforts.html?", 
         extraSpace: -100,
     },
@@ -164,7 +164,7 @@ const events = [
         year: "1960-1965", 
         title: "Nasakom Balancing Act", 
         description: "Sukarno launches Nasakom, soldifying his political balancing act.", 
-        details: "Sukarno publicly coins the phrase Nasakom (Nasionalisme, Agama, Komunisme), solidifying the PKI as a recognized part of Sukarno's political bloc. With Nasakom comes a political balancing act by Sukarno beteween the PKI and the military, which would continue for the next five years.",
+        details: "Sukarno publicly coins the phrase Nasakom (Nasionalisme, Agama, Komunisme), solidifying the PKI as a recognized part of Sukarno's political bloc. With Nasakom comes a political balancing act by Sukarno between the PKI and the military, which would continue for the next five years.",
         source: "\“Timeline of Communist Activity in Indonesia and Reconciliation Efforts,\” The Jakarta Post, 2015, https://www.thejakartapost.com/news/2015/09/30/timeline-communist-activity-indonesia-and-reconciliation-efforts.html?",
         extraSpace: 100
     },
