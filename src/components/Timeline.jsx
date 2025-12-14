@@ -195,7 +195,7 @@ const events = [
         year: "1965-70\'s", 
         title: "Political Mass Killings", 
         description: "With Suharto's New Order comes mass violence", 
-        details: "The explosive rhetoric from Suharto's New Order enabled him to use the populace as a tool to maintain deniability as left-of-center Indonesians were detained and massacred en masse. By the end of the killings, half a million to a milllion people were killed, and between 600,000-750,000 detained for varying lengths of time up to the late 1970's. Much of the violence was conducted by Muslim political groups, such as the Ansor Youth Group. Ethnicity also played a large role in the violence, with many Chinese-Indonesian citizens being murdered, especially in Medan, Makassar, and Lombok.",
+        details: "The explosive rhetoric from Suharto's New Order enabled him to use the populace as a tool to maintain deniability as left-of-center Indonesians were detained and massacred en masse. By the end of the killings, half a million to upwards of a milllion people were killed, and between 600,000-750,000 detained for varying lengths of time up to the late 1970's. Much of the violence was conducted by religious political groups, such as the Ansor Youth Group. Ethnicity also played a large role in the violence, with many Chinese-Indonesian citizens being murdered, especially in Medan, Makassar, and Lombok.",
         source:"Katharine McGregor, \“Heads from the North: Transcultural Memorialization of the 1965 Indonesian Killings at the National Gallery of Australia,\” in The Indonesian Genocide of 1965: Causes, Dynamics and Legacies, ed. Katharine McGregor, Jess Melvin, and Annie Pohlman (Cham: Palgrave Macmillan, 2018), 179-180, 39-40.", 
         extraSpace: -200 },
 ];
