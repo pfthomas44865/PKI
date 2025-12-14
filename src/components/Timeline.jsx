@@ -132,7 +132,7 @@ const events = [
     {
         year: "1946",
         title: "Return of Fugitive PKI Members",
-        description: "Many veteran PKI members, either banished or in hiding during the years of Dutch and Japanese suppression, return to Indonesia and take control of the party leadership.",
+        description: "Many veteran PKI members return to Indonesia and take control of the party leadership.",
         details: "",
         source: "Kankan Xie, “Estranged Comrades: Global Networks of Indonesian Communism, 1926-1932” (PhD diss., University of California, Berkeley, 2018), 4, https://escholarship.org/uc/item/79314435.",
         extraSpace: -50
@@ -143,13 +143,13 @@ const events = [
         description: "PKI becomes major political force", 
         details: "In the 1955 general election, the resurgent PKI wins 16% of the vote, emerging as one of Indonesia's four leading political parties.", 
         source: "\“Timeline of Communist Activity in Indonesia and Reconciliation Efforts,\” The Jakarta Post, 2015, https://www.thejakartapost.com/news/2015/09/30/timeline-communist-activity-indonesia-and-reconciliation-efforts.html?",
-        extraSpace: 150 
+        extraSpace: 200
     },
     { 
         year: "1958", 
         title: "Political Power Struggle", 
         description: "Many other Indonesian political figures directly opposed the PKI", 
-        details: "By 1958, the military's Chief of Staff, the Prime Minister, the Indonesian National Party (PNI), and the Muslim parties were all vehemently opposed to the PKI. Proposed plans included further postponing general elections for five more years, reshuffling the political cabinet, and an economic development program to make the PKI less attractive. Though the Indonesian army's Chief of Staff supported the idea of getting US aid to help fight the PKI, much of the army's senior officers opposed this measure.", 
+        details: "By 1958, the military's Chief of Staff, the Prime Minister, the Indonesian National Party (PNI), and the Muslim parties were all vehemently opposed to the PKI. Proposed plans included further postponing general elections for five more years, reshuffling the political cabinet, and an economic development program to make the PKI less politically attractive. There is internal disagreement within the Indonesian Army's senior leadership over whether or not to enlist U.S. aid to help fight the PKI.",
         source: "Memorandum From the Director of the Bureau of Intelligence and Research (Cumming) to Secretary of State Dulles, “Intelligence Note: Intelligence Analysis of Prospects for Effective Anti-Communist Action in Indonesia,” June 20, 1958, in Foreign Relations of the United States, 1958–1960, Indonesia, Volume XVII, Document 123."
     }, 
     { 
