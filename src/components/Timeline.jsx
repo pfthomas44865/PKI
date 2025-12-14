@@ -171,7 +171,7 @@ const events = [
         year: "1965", 
         title: "Failed PKI Coup Attempt", 
         description: "The PKI attempts a failed coup", 
-        details: "PKI forces abduct and kill 6 Indonesian army generals, dumping their bodies in wells. Two battalions of troops position themselves around Jakarta and in the National Radio Station, and later a proclamation for the 30th September Movement would be made over the national airwaves. However, they would fail to maintain control of Jakarta and the army, led by General Suharto, would reclaim the capital in a bloodless action. There, they announced the end of the coup attempt, which had lasted less than 24 hours.",
+        details: "PKI forces abduct and kill 6 Indonesian army generals, dumping their bodies in wells. Two battalions of troops position themselves around Jakarta and in the National Radio Station, and later a proclamation for the 30th September Movement would be made over the national airwaves. However, they would fail to maintain control of Jakarta and the army, led by General Suharto, would reclaim the capital in a bloodless action. There they announced the end of the coup attempt, which had lasted less than 24 hours.",
         source: "Christopher Hulshof, \"The Voice from the Well: Norman Reddaway, the Information Research Department, and British Propaganda in Indonesia,\" Journal of Cold War Studies Vol. 28, Issue 1 (Winter 2026), forthcoming. 29-30.",
         extraSpace: 300
      },
