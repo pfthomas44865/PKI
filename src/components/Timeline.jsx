@@ -133,7 +133,7 @@ const events = [
         year: "1946",
         title: "Return of Fugitive PKI Members",
         description: "Many veteran PKI members return to Indonesia and take control of the party leadership.",
-        details: "",
+        details: "After the PKI was refounded in 1945, many fugitive former PKI members banished during the Dutch suppression return to Indonesia. By late 1946, the returned older generation had taken over as party leadership.",
         source: "Kankan Xie, “Estranged Comrades: Global Networks of Indonesian Communism, 1926-1932” (PhD diss., University of California, Berkeley, 2018), 4, https://escholarship.org/uc/item/79314435.",
         extraSpace: -50
     },
