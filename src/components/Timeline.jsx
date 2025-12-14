@@ -23,10 +23,6 @@ const bibliographyEvent = {
             </p>
 
             <p className="bib-entry">
-                Liang, Peter Liang Tek Sun. “A Life Under Three Flags.” PhD diss., University of Western Sydney, 2008. https://researchers-admin.westernsydney.edu.au/ws/portalfiles/portal/94895842/uws_6389.pdf
-            </p>
-
-            <p className="bib-entry">
                 McGregor, Katharine. “Heads from the North: Transcultural Memorialization of the 1965 Indonesian Killings at the National Gallery of Australia.” In <em>The Indonesian Genocide of 1965: Causes, Dynamics and Legacies</em>, edited by Katharine McGregor, Jess Melvin, and Annie Pohlman, 179–180, 39–40. Cham: Palgrave Macmillan, 2018.
             </p>
 
@@ -34,7 +30,10 @@ const bibliographyEvent = {
                 Nadhirianto, Averio. “Managing Disappointment: Regime Survival and the Normalization of Indonesia–United States Relations 1957–1958.” <em>Jurnal Asia Pacific Studies</em> 8, no. 2 (2024): 20–33. https://doi.org/10.33541/japs.v8i2.6088.
             </p>
 
-            
+            <p className="bib-entry">
+                Sun, Peter Liang Tek. “A Life Under Three Flags.” PhD diss., University of Western Sydney, 2008. https://researchers-admin.westernsydney.edu.au/ws/portalfiles/portal/94895842/uws_6389.pdf
+            </p>
+
             <p className="bib-entry">
                 The Jakarta Post. “Timeline of Communist Activity in Indonesia and Reconciliation Efforts.” Jakarta, 2015. Accessed December 3, 2025. https://www.thejakartapost.com/news/2015/09/30/timeline-communist-activity-indonesia-and-reconciliation-efforts.html?.
             </p>
