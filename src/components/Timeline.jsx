@@ -57,7 +57,7 @@ const events = [
         year: "1914", 
         title: "ISDV Founded", 
         description: "Precursor Party, \"Indische Sociaal-Democratische Vereeniging\" (Dutch)", 
-        details: "Henk Sneevliet establishes the ISDV in Surabaya.", 
+        details: "Henk Sneevliet establishes the ISDV in Surabaya. The majority-Dutch communist party played the critical role of being both the first Asian communist party outside of the Russian sphere and also the precursor party to the PKI.", 
         source: "\“Timeline of Communist Activity in Indonesia and Reconciliation Efforts,\” The Jakarta Post, 2015, https://www.thejakartapost.com/news/2015/09/30/timeline-communist-activity-indonesia-and-reconciliation-efforts.html?"
     },
     {
